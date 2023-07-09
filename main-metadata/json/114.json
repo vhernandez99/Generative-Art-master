@@ -1,0 +1,36 @@
+{
+  "name": "Los Pepes 114",
+  "description": "Los Pepes es una colección de activos digitales creada por Pepe's Lab. Los titulares disfrutarán de increíbles utilidades como obsequios, descuentos en mercadería y eventos de música en vivo, lugar automático en la lista exclusiva para futuros lanzamientos de NFTs y más.\n    Los Pepes is a digital assets collection created by Pepe's Lab. Holders will enjoy awesome utilities such as, giveaways, discounts on merchandise and live music events, automatic whitelist spot to future NFT drops and more.",
+  "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/114.png",
+  "edition": 114,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Amarillo"
+    },
+    {
+      "trait_type": "Personaje",
+      "value": "Personaje Basico"
+    },
+    {
+      "trait_type": "Boca",
+      "value": "Simple"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Ojos Sonrientes Azul"
+    },
+    {
+      "trait_type": "Accesorios Cabeza",
+      "value": "Gorro Leopardo Ethereum"
+    },
+    {
+      "trait_type": "Atuendo",
+      "value": "PlayeraCostaRica"
+    },
+    {
+      "trait_type": "Vello Facial",
+      "value": "Barba y Bigote"
+    }
+  ]
+}

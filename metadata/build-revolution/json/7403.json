@@ -1,0 +1,38 @@
+{
+  "name": "Los Pepes #7403",
+  "description": "Los Pepes es una colección de activos digitales creada por Pepe's Lab. Los titulares disfrutarán de increíbles utilidades como obsequios, descuentos en mercadería y eventos de música en vivo, lugar automático en la lista exclusiva para futuros lanzamientos de NFTs y más.\n    Los Pepes is a digital assets collection created by Pepe's Lab. Holders will enjoy awesome utilities such as, giveaways, discounts on merchandise and live music events, automatic whitelist spot to future NFT drops and more.",
+  "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/7403.png",
+  "edition": 7403,
+  "date": 1665648391888,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Azul"
+    },
+    {
+      "trait_type": "Personaje",
+      "value": "Personaje Basico"
+    },
+    {
+      "trait_type": "Boca-Revolucion",
+      "value": "Asombrado"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Ojos Sonrientes Negro"
+    },
+    {
+      "trait_type": "Sombrero-Revolucion",
+      "value": "Sombrero 2"
+    },
+    {
+      "trait_type": "Atuendo-Revolucion",
+      "value": "Cinturon de Municion Gris"
+    },
+    {
+      "trait_type": "Cuadro-Revolucion",
+      "value": "Se Busca Cafe"
+    }
+  ],
+  "compiler": "WeCameFromFuture remix"
+}

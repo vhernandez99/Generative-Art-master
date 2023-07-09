@@ -1,0 +1,3802 @@
+[
+  {
+    "name": "DC #1",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/1.png",
+    "edition": 1,
+    "date": 1665648378834,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #2",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/2.png",
+    "edition": 2,
+    "date": 1665648379014,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #3",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/3.png",
+    "edition": 3,
+    "date": 1665648379209,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #4",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/4.png",
+    "edition": 4,
+    "date": 1665648379396,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #5",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/5.png",
+    "edition": 5,
+    "date": 1665648379573,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #6",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/6.png",
+    "edition": 6,
+    "date": 1665648379767,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #7",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/7.png",
+    "edition": 7,
+    "date": 1665648379952,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #8",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/8.png",
+    "edition": 8,
+    "date": 1665648380134,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #9",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/9.png",
+    "edition": 9,
+    "date": 1665648380314,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #10",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/10.png",
+    "edition": 10,
+    "date": 1665648380491,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #11",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/11.png",
+    "edition": 11,
+    "date": 1665648380673,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #12",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/12.png",
+    "edition": 12,
+    "date": 1665648380855,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #13",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/13.png",
+    "edition": 13,
+    "date": 1665648381035,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #14",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/14.png",
+    "edition": 14,
+    "date": 1665648381212,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #15",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/15.png",
+    "edition": 15,
+    "date": 1665648381392,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #16",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/16.png",
+    "edition": 16,
+    "date": 1665648381580,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #17",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/17.png",
+    "edition": 17,
+    "date": 1665648381753,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #18",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/18.png",
+    "edition": 18,
+    "date": 1665648381929,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #19",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/19.png",
+    "edition": 19,
+    "date": 1665648382105,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #20",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/20.png",
+    "edition": 20,
+    "date": 1665648382285,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #21",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/21.png",
+    "edition": 21,
+    "date": 1665648382472,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Oscuros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #22",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/22.png",
+    "edition": 22,
+    "date": 1665648382651,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Oscuros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #23",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/23.png",
+    "edition": 23,
+    "date": 1665648382829,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Oscuros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #24",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/24.png",
+    "edition": 24,
+    "date": 1665648383013,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #25",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/25.png",
+    "edition": 25,
+    "date": 1665648383189,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #26",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/26.png",
+    "edition": 26,
+    "date": 1665648383369,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #27",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/27.png",
+    "edition": 27,
+    "date": 1665648383562,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #28",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/28.png",
+    "edition": 28,
+    "date": 1665648383741,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #29",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/29.png",
+    "edition": 29,
+    "date": 1665648383925,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #30",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/30.png",
+    "edition": 30,
+    "date": 1665648384102,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #31",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/31.png",
+    "edition": 31,
+    "date": 1665648384312,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #32",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/32.png",
+    "edition": 32,
+    "date": 1665648384502,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #33",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/33.png",
+    "edition": 33,
+    "date": 1665648384676,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #34",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/34.png",
+    "edition": 34,
+    "date": 1665648384864,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #35",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/35.png",
+    "edition": 35,
+    "date": 1665648385043,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #36",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/36.png",
+    "edition": 36,
+    "date": 1665648385223,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #37",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/37.png",
+    "edition": 37,
+    "date": 1665648385405,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #38",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/38.png",
+    "edition": 38,
+    "date": 1665648385581,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #39",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/39.png",
+    "edition": 39,
+    "date": 1665648385755,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #40",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/40.png",
+    "edition": 40,
+    "date": 1665648385934,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #41",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/41.png",
+    "edition": 41,
+    "date": 1665648386125,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #42",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/42.png",
+    "edition": 42,
+    "date": 1665648386305,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #43",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/43.png",
+    "edition": 43,
+    "date": 1665648386485,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #44",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/44.png",
+    "edition": 44,
+    "date": 1665648386659,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #45",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/45.png",
+    "edition": 45,
+    "date": 1665648386840,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #46",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/46.png",
+    "edition": 46,
+    "date": 1665648387016,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #47",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/47.png",
+    "edition": 47,
+    "date": 1665648387199,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #48",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/48.png",
+    "edition": 48,
+    "date": 1665648387388,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #49",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/49.png",
+    "edition": 49,
+    "date": 1665648387562,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #50",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/50.png",
+    "edition": 50,
+    "date": 1665648387737,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #51",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/51.png",
+    "edition": 51,
+    "date": 1665648387917,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #52",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/52.png",
+    "edition": 52,
+    "date": 1665648388102,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #53",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/53.png",
+    "edition": 53,
+    "date": 1665648388281,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #54",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/54.png",
+    "edition": 54,
+    "date": 1665648388461,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #55",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/55.png",
+    "edition": 55,
+    "date": 1665648388635,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #56",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/56.png",
+    "edition": 56,
+    "date": 1665648388812,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #57",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/57.png",
+    "edition": 57,
+    "date": 1665648388996,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #58",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/58.png",
+    "edition": 58,
+    "date": 1665648389172,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #59",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/59.png",
+    "edition": 59,
+    "date": 1665648389347,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #60",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/60.png",
+    "edition": 60,
+    "date": 1665648389522,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #61",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/61.png",
+    "edition": 61,
+    "date": 1665648389710,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Rosado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #62",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/62.png",
+    "edition": 62,
+    "date": 1665648389900,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #63",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/63.png",
+    "edition": 63,
+    "date": 1665648390085,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #64",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/64.png",
+    "edition": 64,
+    "date": 1665648390269,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #65",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/65.png",
+    "edition": 65,
+    "date": 1665648390449,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #66",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/66.png",
+    "edition": 66,
+    "date": 1665648390623,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #67",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/67.png",
+    "edition": 67,
+    "date": 1665648390804,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #68",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/68.png",
+    "edition": 68,
+    "date": 1665648390976,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #69",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/69.png",
+    "edition": 69,
+    "date": 1665648391153,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #70",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/70.png",
+    "edition": 70,
+    "date": 1665648391338,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #71",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/71.png",
+    "edition": 71,
+    "date": 1665648391521,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #72",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/72.png",
+    "edition": 72,
+    "date": 1665648391715,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #73",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/73.png",
+    "edition": 73,
+    "date": 1665648391888,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #74",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/74.png",
+    "edition": 74,
+    "date": 1665648392062,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #75",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/75.png",
+    "edition": 75,
+    "date": 1665648392241,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #76",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/76.png",
+    "edition": 76,
+    "date": 1665648392425,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #77",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/77.png",
+    "edition": 77,
+    "date": 1665648392607,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #78",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/78.png",
+    "edition": 78,
+    "date": 1665648392779,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Oscuros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #79",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/79.png",
+    "edition": 79,
+    "date": 1665648392955,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #80",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/80.png",
+    "edition": 80,
+    "date": 1665648393138,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Oscuros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #81",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/81.png",
+    "edition": 81,
+    "date": 1665648393331,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #82",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/82.png",
+    "edition": 82,
+    "date": 1665648393521,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #83",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/83.png",
+    "edition": 83,
+    "date": 1665648393702,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #84",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/84.png",
+    "edition": 84,
+    "date": 1665648393887,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #85",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/85.png",
+    "edition": 85,
+    "date": 1665648394068,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #86",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/86.png",
+    "edition": 86,
+    "date": 1665648394251,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Sonrientes Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #87",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/87.png",
+    "edition": 87,
+    "date": 1665648394437,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #88",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/88.png",
+    "edition": 88,
+    "date": 1665648394621,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #89",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/89.png",
+    "edition": 89,
+    "date": 1665648394800,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Bitcoin 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #90",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/90.png",
+    "edition": 90,
+    "date": 1665648394974,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #91",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/91.png",
+    "edition": 91,
+    "date": 1665648395162,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Bigote Zapata"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 2"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Cafe Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #92",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/92.png",
+    "edition": 92,
+    "date": 1665648395350,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #93",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/93.png",
+    "edition": 93,
+    "date": 1665648395533,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #94",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/94.png",
+    "edition": 94,
+    "date": 1665648395711,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Morado"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #95",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/95.png",
+    "edition": 95,
+    "date": 1665648395883,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Menta"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Azul"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 1"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #96",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/96.png",
+    "edition": 96,
+    "date": 1665648396083,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Negro"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #97",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/97.png",
+    "edition": 97,
+    "date": 1665648396262,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Gris"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Verde"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Camisa Gris Claro"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #98",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/98.png",
+    "edition": 98,
+    "date": 1665648396444,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul Claro"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Sonrisa"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Lentes Negros"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 5"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #99",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/99.png",
+    "edition": 99,
+    "date": 1665648396626,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 1"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 4"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Cinturon de Municion Gris"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Negro"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  },
+  {
+    "name": "DC #100",
+    "description": "Description",
+    "image": "ipfs://QmSgtbYwFoiNMjaT1LipzLpvj9Q2rycEcNL8mbHUTHCNe6/100.png",
+    "edition": 100,
+    "date": 1665648396807,
+    "attributes": [
+      {
+        "trait_type": "Fondo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Personaje",
+        "value": "Personaje Basico"
+      },
+      {
+        "trait_type": "Boca-Revolucion",
+        "value": "Asombrado"
+      },
+      {
+        "trait_type": "Ojos",
+        "value": "Ojos Solana 2"
+      },
+      {
+        "trait_type": "Sombrero-Revolucion",
+        "value": "Sombrero 3"
+      },
+      {
+        "trait_type": "Atuendo-Revolucion",
+        "value": "Traje Cafe"
+      },
+      {
+        "trait_type": "Cuadro-Revolucion",
+        "value": "Se Busca Cafe"
+      }
+    ],
+    "compiler": "WeCameFromFuture remix"
+  }
+]
